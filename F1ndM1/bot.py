@@ -28,4 +28,4 @@ async def start(ctx):
         await ctx.send("You took too long to reply.")
 
 
-bot.run('MTM3MDIwNTk1NTM2MjY1MjMwMg.GPbprw.3P366Au1jpkdfsAr4jpxs1u-ouhFOPvSioIfyE')
+bot.run('Token')
