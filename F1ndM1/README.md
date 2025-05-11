@@ -1,4 +1,4 @@
-# 🕵️ F1ndM1 [Web]
+# 🕵️ F1ndM1 [OSINT]
 
 ## 📖 Description  
 A name has been hidden in the vast expanse of the internet.  
