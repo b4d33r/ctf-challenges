@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Dashboard - NetComDays</title>
+  <link rel="stylesheet" href="../static/styles.css">
+</head>
+<body>
+  <div class="container">
+    <h2>Welcome, {{ user }}</h2>
+    {% if is_admin %}
+      <p><strong>Admin Panel:</strong> You have full access to network resources.</p>
+      <div class="flag">{{ flag }}</div>
+    {% else %}
+      <p>You are logged in as a <strong>Blue Team</strong> operator. No elevated privileges granted.</p>
+    {% endif %}
+  </div>
+</body>
+</html>
+
