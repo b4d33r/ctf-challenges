@@ -24,5 +24,5 @@
 > For example, **FC Barcelona won the Copa del Rey 2024-2025 and their captain during the match was Frenkie de Jong**,  
 > so the flag should look like:  
 > `ctf{fcb1899_kingscup2025_frenkiedejong}`
-![Challenge Image]([https://github.com/your-username/ctf-challenges/blob/main/F1ndM1/your-image.jpg?raw=true](https://github.com/b4d33r/ctf-challenges/blob/main/Easy%20OSINT/easyosint.jpg))
+![easyosint.jpg]([https://github.com/your-username/ctf-challenges/blob/main/F1ndM1/your-image.jpg?raw=true](https://github.com/b4d33r/ctf-challenges/blob/main/Easy%20OSINT/easyosint.jpg))
 
