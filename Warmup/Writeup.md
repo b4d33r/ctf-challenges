@@ -1,4 +1,4 @@
-### JWT Authentication Challenge — Writeup
+# JWT Authentication Challenge — Writeup
 I found the JWT token stored in a cookie after logging in.
 
 Using jwt_tool, I brute forced the secret key pasosdegigante.
