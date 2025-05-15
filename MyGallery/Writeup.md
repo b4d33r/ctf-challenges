@@ -8,6 +8,6 @@ I crafted a malicious cookie value pointing the object’s path to `flag.txt` (e
 
 After uploading a dummy image to initialize the session, I set the forged `image_data` cookie in my requests.
 
-Visiting `view.php` with the modified cookie revealed the flag inside a hidden `<pre>` tag.
+Visiting view.php with the modified cookie revealed the flag in the page source.
 
 The exploit script is provided in [`exploit.py`](exploit.py).
