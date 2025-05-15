@@ -7,4 +7,4 @@ With the secret key, I forged a new JWT token with "role": "admin" and replaced 
 
 This gave me admin access and revealed the flag on the /login.
 
-The exploit script is provided in exploit.py
+The exploit script is provided in [`exploit.py`](exploit.py)
