@@ -26,3 +26,5 @@
 > `ctf{fcb1899_kingscup2025_frenkiedejong}`
 ![Challenge Image](https://github.com/b4d33r/ctf-challenges/blob/main/Easy%20OSINT/easyosint.jpg)
 
+@b4d33r
+
